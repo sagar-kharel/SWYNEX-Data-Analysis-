@@ -16,7 +16,7 @@ The following issues were checked during the cleaning process:
 * Inconsistent values
 * Invalid values, such as negative ages
 
- 4. Data Cleaning Steps
+ 5. Data Cleaning Steps
 
 . Identified missing values using `isnull()` and `sum()`.
 . Checked and handled duplicate records using `duplicated()` and `drop_duplicates()`.
@@ -25,7 +25,7 @@ The following issues were checked during the cleaning process:
 . Checked inconsistent values and corrected them where necessary.
 . Verified the dataset after cleaning.
 
- 5. Files Included
+ 6. Files Included
 Relational data set(need to merge)
   Original dataset before cleaning are
     customers.csv
@@ -36,10 +36,10 @@ cleaned_dataset.csv — Cleaned dataset after processing.
 readme.txt — Project description and summary.
 SWYNEX-Python-Internship.ipynb — Jupyter Notebook containing the cleaning code.
 
- 6. Final Result
+ 7. Final Result
 
 The dataset was cleaned and prepared for further data analysis. The cleaned CSV file is included in this repository.
 
- 7. Conclusion
+ 8. Conclusion
 
 This project helped me practice data cleaning using Python and Pandas, including handling missing values, duplicates, incorrect data types, and inconsistent data.
